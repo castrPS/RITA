@@ -22,8 +22,29 @@ Persona e Jornada do usuário: https://docs.google.com/presentation/d/1L8E-rtIcF
 
 # 3. Apps semelhantes
 
-Existem alguns apps para registro para outros transtornos, mas não existe nenhum de registro focado em transtornos alimentares diretamente. Há uma necessidade de uma pesquisa mais a fundo.
+Existem alguns apps para registro para outros transtornos, mas não existe nenhum de registro focado em transtornos alimentares sem focar em dieta, o que é um problema, pois “com os tratamentos errados, o que acontece muito é a migração de transtornos. É comum que uma bulimia, por exemplo, se tratada de maneira errada, venha a se transformar numa ortorexia.”
 
-# 4. O app:
+Os apps são: https://www.buzzfeed.com/maggyvaneijk/17-amazing-apps-for-anyone-recovering-from-an-eating-disorde
 
-Protótipo: https://creator.ionic.io/share/986c804a65c3
+Outro fator importante de se citar é que todos estão disponíveis em inglês e não tem suporte para a língua portuguesa. Além de que muitos focam apenas no público feminino.
+
+# 4. Features:
+
+*Registro:* 
+Primeiro, a pessoa decide qual seu sentimento naquele momento em uma escala, após, através de perguntas abertas e não-obrigatórios, ela especifica o que está acontecendo ou o que aconteceu e ela quer registrar.
+
+*MotivFeed:*
+A pessoa recebe aleatoriamente algum conteúdo motivacional. Registros positivos dela também se tornam conteúdo para ela. Ela dá feedback sobre esse conteúdo, se ela gostaria de ver mais vezes ou gostaria de não mais ver aquele tópico.
+
+*Emergência:*
+A pessoa vai ser redirecionada para o CVV (Centro de Valorização da Vida) para conversar com alguém via telefone (a ligação é gratuita) ou faz a ligação para o seu contato de emergência.
+
+*Perfil:*
+Aqui tem um jarro de flores que aumenta de petálas a cada registro, ele não decresce, apenas aumenta a quantidade com o intuito de não desmotivar. Aqui a pessoa poderá ir para configurações ou para seu diário.
+
+*Diário:*
+O diário mostra todos os registros dela e ela pode decidir de ver ou não aquele conteúdo, assim como no MotivFeed.
+
+# 5. Mock-up:
+
+https://creator.ionic.io/share/986c804a65c3
